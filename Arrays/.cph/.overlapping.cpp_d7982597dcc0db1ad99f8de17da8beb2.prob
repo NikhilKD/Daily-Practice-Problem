@@ -1,0 +1,1 @@
+{"name":"Local: overlapping","url":"e:\\Daily-Practice-Problem\\Arrays\\overlapping.cpp","tests":[{"id":1647486639182,"input":"4\n1 3\n2 6\n8 10\n15 18","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Daily-Practice-Problem\\Arrays\\overlapping.cpp","group":"local","local":true}
